@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello mister! How are you?
+          Testing Travis CI build with CI=true in the docker run command
         </p>
         <a
           className="App-link"
